@@ -1,0 +1,7 @@
+venv
+.dockerignore
+Dockerfile
+Dockerfile.prod
+__pycache__
+.pytest_cache
+.vscode
